@@ -28,7 +28,7 @@ twitter_username: pinnaclenetwork
 github_username:  pinnaclenetworking
 
 # Build settings
-theme: jekyll-help-center-theme
+theme: Minima
 plugins:
   - jekyll-feed
 
