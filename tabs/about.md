@@ -8,4 +8,7 @@ title: About
 # MIT License
 ---
 
-<p>Art Eppley </br> dba Pinnacle Networking </br> PO Box 1234 </br> Gloversville, NY 12078</p>
+<p>Art Eppley 
+   dba Pinnacle Networking 
+       PO Box 1234 
+       Gloversville, NY 12078</p>
