@@ -1,6 +1,17 @@
+# hidden files
+.*
+
+# python compiled files
+*.pyc
+
+# jekyll debug
 _site
-.sass-cache
-.jekyll-metadata
-jekyll-help-center-theme-0.1.0.gem
-jekyll-help-center-theme.gemspec
-node_modules
+
+# Jeykll Gemfile.lock
+Gemfile.lock
+
+# yui-compressor
+*.jar
+
+# bundle cache
+vendor
