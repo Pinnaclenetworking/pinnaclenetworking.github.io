@@ -1,4 +1,4 @@
-# The Site Settings
+﻿# The Site Settings
 # v2.0
 # https://github.com/cotes2020/jekyll-theme-chirpy
 # © 2017-2019 Cotes Chung
@@ -8,9 +8,9 @@
 # jekyll-seo-tag settings › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 #--------------------------
 
-title: Chirpy                          # the main title
+title: Pinnacle Networking                          # the main title
 
-tagline: A text-focused Jekyll theme.  # it will display as the sub-title
+tagline: We take the SH out of I.T..  # it will display as the sub-title
 
 description: >-                        # used by seo meta and the atom feed
   A minimal, portfolio, sidebar,
@@ -20,26 +20,29 @@ description: >-                        # used by seo meta and the atom feed
 # Replace with your domain, e.g. 'https://username.github.io'
 url: 'protocol://domain'
 
-author: your_full_name                  # change to your full name
+author: Art Eppley                 # change to your full name
 
 avatar: /assets/img/sample/avatar.jpg   # support internet resources
 
 github:
-  username: github_username             # change to your github username
+  username: pinnaclenetworking             # change to your github username
 
 twitter:
-  username: twitter_username            # change to your twitter username
+  username: pinnaclenetwork            # change to your twitter username
+
+linkedin:
+  username: ArtEppley
 
 social:
-  name: your_full_name                  # it will shows as the copyright owner in Footer
-  email: example@doamin.com             # change to your email address
+  name: Art Eppley                  # it will shows as the copyright owner in Footer
+  email: aeppley@pinnaclenetworking.com             # change to your email address
   links:
     # The first element serves as the copyright owner's link
     - https://twitter.com/username      # change to your twitter homepage
     - https://github.com/username       # change to your github homepage
     # Uncomment below to add more social links
     # - https://www.facebook.com/username
-    # - https://www.linkedin.com/in/username
+     - https://www.linkedin.com/in/username
 
 google_site_verification: google_meta_tag_verification # change to your verification string
 
