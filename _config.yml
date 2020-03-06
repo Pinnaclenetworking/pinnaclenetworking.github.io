@@ -18,7 +18,7 @@ description: >-                        # used by seo meta and the atom feed
   and focuses on text presentation.
 
 # Replace with your domain, e.g. 'https://username.github.io'
-url: 'protocol://domain'
+url: 'https://pinnaclenetworking.github.io'
 
 author: Art Eppley                 # change to your full name
 
@@ -55,7 +55,7 @@ google_site_verification: google_meta_tag_verification # change to your verifica
 baseurl: ''
 
 # Change to your timezone › http://www.timezoneconverter.com/cgi-bin/findzone/findzone
-timezone: Asia/Shanghai
+timezone: America/New_York
 
 google_analytics:
   # Fill with your Google Analytics ID
