@@ -1,4 +1,4 @@
----
+﻿---
 title: About
 
 # The About page
@@ -8,4 +8,4 @@ title: About
 # MIT License
 ---
 
-> **Note**: Add Markdown syntax content to file `tabs/about.md` and it will show up on this page.
+<p>Art Eppley </br> dba Pinnacle Networking </br> PO Box 1234 </br> Gloversville, NY 12078</p>
