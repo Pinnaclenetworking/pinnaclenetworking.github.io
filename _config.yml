@@ -33,6 +33,9 @@ twitter:
 linkedin:
   username: ArtEppley
 
+facebook:
+  username: pinnaclenetwork2
+
 social:
   name: Art Eppley                  # it will shows as the copyright owner in Footer
   email: aeppley@pinnaclenetworking.com             # change to your email address
@@ -41,8 +44,8 @@ social:
     - https://twitter.com/username      # change to your twitter homepage
     - https://github.com/username       # change to your github homepage
     # Uncomment below to add more social links
-    # - https://www.facebook.com/username
-     - https://www.linkedin.com/in/username
+    - https://www.facebook.com/username
+    - https://www.linkedin.com/in/username
 
 google_site_verification: google_meta_tag_verification # change to your verification string
 
