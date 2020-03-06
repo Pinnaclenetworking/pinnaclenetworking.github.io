@@ -22,7 +22,7 @@ title: Pinnacle Networking
 email: aeppley@pinnaclenetworking.com
 description: >- # this means to ignore newlines until "baseurl:"
  Pinnacle Networking, your home for PC repair and web design
-baseurl: "" # the subpath of your site, e.g. /blog
+baseurl: "/jekyll-help-center-theme" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: pinnaclenetwork
 github_username:  pinnaclenetworking
