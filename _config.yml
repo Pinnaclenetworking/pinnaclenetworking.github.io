@@ -13,12 +13,10 @@ title: Pinnacle Networking                          # the main title
 tagline: We take the SH out of I.T..  # it will display as the sub-title
 
 description: >-                        # used by seo meta and the atom feed
-  A minimal, portfolio, sidebar,
-  bootstrap Jekyll theme with responsive web design
-  and focuses on text presentation.
+ We welcome any type of electronics project you may have, if I think i can fix it, I will give it a shot!
 
 # Replace with your domain, e.g. 'https://username.github.io'
-url: 'https://pinnaclenetworking.github.io'
+url: 'https://pinnaclenetworking.com'
 
 author: Art Eppley                 # change to your full name
 
@@ -43,13 +41,14 @@ facebook:
 social:
   name: Art Eppley                  # it will shows as the copyright owner in Footer
   email: aeppley@pinnaclenetworking.com             # change to your email address
+  phone: 518.844.9145
   links:
     # The first element serves as the copyright owner's link
-    - https://twitter.com/username      # change to your twitter homepage
-    - https://github.com/username       # change to your github homepage
+    - https://twitter.com/pinnaclenetwork      # change to your twitter homepage
+    - https://github.com/pinnaclenetworking       # change to your github homepage
     # Uncomment below to add more social links
-    - https://www.facebook.com/username
-    - https://www.linkedin.com/in/username
+    - https://www.facebook.com/pinnaclenetworking2
+    - https://www.linkedin.com/in/ArtEppley
 
 google_site_verification: google_meta_tag_verification # change to your verification string
 
