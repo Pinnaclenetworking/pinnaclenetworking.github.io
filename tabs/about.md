@@ -7,7 +7,7 @@ title: About
 # © 2017-2019 Cotes Chung
 # MIT License
 ---
-<p>We can handle any hardware or software issue that we come across. All we need is the tower and we can have you back up and running. We carry many desktop parts in store and if there is a specific part needed, we can usually obtain those parts within the same day. We have fixed thousands of desktop computers from operating system reloads to custom gaming systems and everything in between. At Pinnacle Networking you can be sure your desktop will be in good hands, we have literally fixed every problem imaginable, we can fix anything. We will fix your desktop fast and at a low flat-rated price to saving you time and money.</p>
+<p>We can handle any hardware or software issue that we come across. All we need is the unit needed fixing (power cables please) and we can have you back up and running. If there is a specific part needed, we can usually obtain those parts within a day or two. We have fixed thousands of desktop computers from operating system reloads to custom gaming systems and everything in between. At Pinnacle Networking you can be sure your computer will be in good hands, we have literally fixed every problem imaginable, If I think we can fix it, I wil try to fix anything. We dont just limit ourselves to PC componens We will fix your computer fast and at a low flat-rated price to saving you time and money.</p>
 
 
 <h3>Why Choose Us?</h3>	
