@@ -18,6 +18,8 @@ description: >-                        # used by seo meta and the atom feed
 # Replace with your domain, e.g. 'https://username.github.io'
 url: 'https://pinnaclenetworking.com'
 
+remote-theme: cotes2020/jekyll-theme-chirpy 
+
 author: Art Eppley                 # change to your full name
 
 avatar: /assets/img/sample/pinnacle-logo.png   # support internet resources
