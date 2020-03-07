@@ -16,6 +16,7 @@ title: About
    <li>FREE Diagnostics & Estimates</li>
    <li>Extremely Knowledgeable</li>
    <li>30 Day Guarantee</li>
+</ul>
 
        Art Eppley 
    dba Pinnacle Networking 
