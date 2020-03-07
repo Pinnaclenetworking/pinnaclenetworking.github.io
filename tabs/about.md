@@ -18,6 +18,3 @@ title: About
    <li>30 Day Guarantee</li>
 </ul>
 
-       Art Eppley 
-   dba Pinnacle Networking 
-       518-844-9145
