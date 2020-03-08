@@ -13,3 +13,9 @@ title: Support Us
       <li><a href="cash.me/$pinnacle">Cash App</a></li>
 
    </ul>
+
+<H2> Save with my referral links</H2>
+   <ul>
+       <li><a href="https://g.co/fi/r/C35HNW">Save $20 on Google Fi service</a></li>
+
+   </ul>
