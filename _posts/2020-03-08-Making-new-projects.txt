@@ -5,7 +5,7 @@ categories: [hacking, tinkering, making ]
 tags: [dumpster, finds, making ]
 ---
 
-<p>Have you ever found an old TV, VCR, computer on the curb and made something out of it? We want to see. We are facinated with the creations people come up with. As a matter of fact, this post was inspired by this story <a href="https://hackaday.com/2020/03/06/dumpster-finds-combined-into-4k-desktop-monitor/">Dumpster finds combined into a 4k mnitor</a>.</p>
+<p>Have you ever found an old TV, VCR, computer on the curb and made something out of it? We want to see. We are facinated with the creations people come up with. As a matter of fact, this post was inspired by this story <a href="https://hackaday.com/2020/03/06/dumpster-finds-combined-into-4k-desktop-monitor/">Dumpster finds combined into a 4k monitor</a>.</p>
 
 One of my favorite projects was this one:
 
