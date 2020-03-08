@@ -9,3 +9,7 @@ title: Support Us
 ---
 
 <H2>Support Me Directly!</H2>
+   <ul>
+      <li><a href="cash.me/$pinnacle">Cash App</a></li>
+
+   </ul>
