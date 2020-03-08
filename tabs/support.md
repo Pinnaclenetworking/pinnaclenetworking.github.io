@@ -10,7 +10,7 @@ title: Support Us
 
 <H2>Support Me Directly!</H2>
    <ul>
-      <li><a href="cash.me/$pinnacle">Cash App</a></li>
+      <li><a href="https://cash.me/$pinnacle">Cash App</a></li>
       <li><a href="https://brave.com/pne530"> Brave Payments</a></li>
 
    </ul>
